@@ -883,6 +883,8 @@ img {
   bottom: 11px;
   left: 15px;
 
+  padding: 3px;
+
   fill: var(--basic-txt-title);
 }
 
